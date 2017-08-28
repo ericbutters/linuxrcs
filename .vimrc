@@ -43,7 +43,7 @@ vmap <C-C> "+y
 filetype off
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim/
+set rtp+=~/.vim/bundle/vundle
 call vundle#rc()
 " alternatively, pass a path where Vundle should install plugins
 "let path = '~/some/path/here'
@@ -64,7 +64,7 @@ Plugin 'MattesGroeger/vim-bookmarks'
 
 " color schemes
 Plugin 'tomasr/molokai'
-Plugin 'jpo/vim-railscasts-theme'
+"Plugin 'jpo/vim-railscasts-theme'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'kergoth/vim-bitbake'
 
