@@ -64,7 +64,7 @@ Plugin 'MattesGroeger/vim-bookmarks'
 
 " color schemes
 Plugin 'tomasr/molokai'
-"Plugin 'jpo/vim-railscasts-theme'
+Plugin 'jpo/vim-railscasts-theme'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'kergoth/vim-bitbake'
 
